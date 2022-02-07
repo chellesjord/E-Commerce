@@ -1,0 +1,6 @@
+node_modules/
+password.js
+package-lock.json
+package.json
+.env
+.DS_Store
